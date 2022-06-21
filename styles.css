@@ -1,0 +1,43 @@
+h1 {
+    letter-spacing: 10px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+* {
+    font-family: monospace;
+}
+fieldset {
+    display: inline-block;
+    width: 20%;
+    height: 100px;
+    margin: 0 1em 0 0;
+    padding: 0.5em 1em;
+    overflow-y: scroll;
+    text-align: center;
+    font-family: monospace;
+    } 
+
+
+body {
+    background-color: white;
+}
+
+.thing1 {
+    font-size: larger;
+    font-weight: 900;
+}
+
+button:hover {
+    color: white;
+    background-color: #fec5bb;
+}
+
+input[type="radio"]:checked {
+    color: #9c89b8;
+}
+
+div:hover {
+    background-color: #1dd3b0;
+}
